@@ -1,0 +1,9 @@
+/logs/
+/Models/
+/runs/
+/pillQC-dataset/
+/logs_1/
+/wood/
+*.png
+*.jpg
+*.m
